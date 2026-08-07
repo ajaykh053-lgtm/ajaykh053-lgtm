@@ -8,14 +8,14 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ajay-kh-52b08032a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaykh053@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/u/ajaykh/])
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ajaykh053-lgtm&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -24,21 +24,21 @@
 ## 🧑‍💻 About Me
 
 ```ts
-const ajay = {
-  role:       "Full-Stack Developer & CS Student",
+const Ajay = {
+  role:       "Python Full-Stack Developer & CS Student",
   pronouns:   "he/him",
   location:   "India 🇮🇳",
-  focus:      ["DSA", "Full-Stack Web Dev", "Embedded Systems"],
-  currentlyLearning: ["System Design", "Advanced Algorithms"],
-  funFact:    "I debug with console.log and I'm proud of it 🤷",
+  focus:      ["DSA", "Full-Stack Web Dev", "Python Dev"],
+  currentlyLearning: ["DSA", "Advance Python"],
+  funFact:    "I debug with print and I'm proud of it 🤷",
 };
 ```
 
-- 🔭 Currently building projects that blend **web + hardware**
+- 🔭 Currently building projects that blend **Web Dev**
 - 🌱 Grinding **LeetCode** for placement season
-- 🎮 PC gamer off the clock
-- 💬 Ask me about **React, FastAPI, Arduino, or DSA**
-- 📫 Reach me at **your.email@gmail.com**
+- 🎮 PC gamer on the clock
+- 💬 Ask me about **Python,API or DSA**
+- 📫 Reach me at **ajaykh053@gmail.com**
 
 ---
 
@@ -80,15 +80,15 @@ const ajay = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ajaykh053-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&langs_count=7" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykh053-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&langs_count=7" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaykh053-lgtm&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" />
 
 </div>
 
@@ -98,7 +98,7 @@ const ajay = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=ajaykh053-lgtm&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -109,9 +109,9 @@ const ajay = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajaykh053-lgtm/ajaykh053-lgtm/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajaykh053-lgtm/ajaykh053-lgtm/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ajaykh053-lgtm/ajaykh053-lgtm/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -122,8 +122,8 @@ const ajay = {
 
 <div align="center">
 
-[![Attendance System](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=digital-attendance-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9)](https://github.com/YOUR_GITHUB_USERNAME/digital-attendance-system)
-[![Line Following Robot](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=line-following-robot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9)](https://github.com/YOUR_GITHUB_USERNAME/line-following-robot)
+[![Attendance System](https://github-readme-stats.vercel.app/api/pin/?username=ajaykh053-lgtm&repo=digital-attendance-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9)](https://github.com/YOUR_GITHUB_USERNAME/digital-attendance-system)
+[![Line Following Robot](https://github-readme-stats.vercel.app/api/pin/?username=ajaykh053-lgtm&repo=line-following-robot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9)](https://github.com/YOUR_GITHUB_USERNAME/line-following-robot)
 
 </div>
 
@@ -133,7 +133,7 @@ const ajay = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FFFFFF&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaykh053-lgtm&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FFFFFF&hide_border=true" />
 
 </div>
 
