@@ -1,16 +1,148 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ajaykh053-lgtm/ajaykh053-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing SVG Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ajay+%F0%9F%91%8B;Full-Stack+Dev+%7C+DSA+Enthusiast;Building+cool+stuff+one+commit+at+a+time" alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```ts
+const ajay = {
+  role:       "Full-Stack Developer & CS Student",
+  pronouns:   "he/him",
+  location:   "India 🇮🇳",
+  focus:      ["DSA", "Full-Stack Web Dev", "Embedded Systems"],
+  currentlyLearning: ["System Design", "Advanced Algorithms"],
+  funFact:    "I debug with console.log and I'm proud of it 🤷",
+};
+```
+
+- 🔭 Currently building projects that blend **web + hardware**
+- 🌱 Grinding **LeetCode** for placement season
+- 🎮 PC gamer off the clock
+- 💬 Ask me about **React, FastAPI, Arduino, or DSA**
+- 📫 Reach me at **your.email@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Databases**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&langs_count=7" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![Attendance System](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=digital-attendance-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9)](https://github.com/YOUR_GITHUB_USERNAME/digital-attendance-system)
+[![Line Following Robot](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=line-following-robot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9)](https://github.com/YOUR_GITHUB_USERNAME/line-following-robot)
+
+</div>
+
+---
+
+## 📈 Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FFFFFF&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code." — John Johnson*
+
+⭐️ **If you find any of my repos helpful, consider giving them a star!**
+
+</div>
