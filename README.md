@@ -2,7 +2,7 @@
 
 <!-- Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ajay+%F0%9F%91%8B;Full-Stack+Dev+%7C+DSA+Enthusiast;Building+cool+stuff+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ajay+%F0%9F%91%8B;Full-Stack+Developer;DSA+Enthusiast;LeetCode+Grinder" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ajay-kh-52b08032a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaykh053@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/u/ajaykh/])
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ajaykh/)
 
 <br/>
 
@@ -37,7 +37,7 @@ const Ajay = {
 - 🔭 Currently building projects that blend **Web Dev**
 - 🌱 Grinding **LeetCode** for placement season
 - 🎮 PC gamer on the clock
-- 💬 Ask me about **Python,API or DSA**
+- 💬 Ask me about **Python, API or DSA**
 - 📫 Reach me at **ajaykh053@gmail.com**
 
 ---
@@ -98,8 +98,8 @@ const Ajay = {
 
 <div align="center">
 
-[![Attendance System](https://github-readme-stats.vercel.app/api/pin/?username=ajaykh053-lgtm&repo=digital-attendance-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9)](https://github.com/YOUR_GITHUB_USERNAME/digital-attendance-system)
-[![Line Following Robot](https://github-readme-stats.vercel.app/api/pin/?username=ajaykh053-lgtm&repo=line-following-robot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9)](https://github.com/YOUR_GITHUB_USERNAME/line-following-robot)
+[![Attendance System](https://github-readme-stats.vercel.app/api/pin/?username=ajaykh053-lgtm&repo=digital-attendance-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9)](https://github.com/ajaykh053-lgtm/digital-attendance-system)
+[![Line Following Robot](https://github-readme-stats.vercel.app/api/pin/?username=ajaykh053-lgtm&repo=line-following-robot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9)](https://github.com/ajaykh053-lgtm/line-following-robot)
 
 </div>
 
@@ -115,12 +115,17 @@ const Ajay = {
 
 ---
 
-<div align="center"> 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ajaykh053-lgtm/ajaykh053-lgtm/output/github-snake-dark.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/ajaykh053-lgtm/ajaykh053-lgtm/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+
 </div>
+
+---
+
+<div align="center">
 
 *"First, solve the problem. Then, write the code." — John Johnson*
 
