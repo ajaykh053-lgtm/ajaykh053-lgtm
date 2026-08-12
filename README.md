@@ -42,6 +42,11 @@ const Ajay = {
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake Animation](https://raw.githubusercontent.com/ajaykh053-lgtm/ajaykh053-lgtm/output/github-contribution-grid-snake.svg)
+
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -75,6 +80,16 @@ const Ajay = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+
+## 📈 Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaykh053-lgtm&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FFFFFF&hide_border=true" />
+
+</div>
+
+---
 <!--
 ## 📊 GitHub Stats
 
@@ -105,19 +120,7 @@ const Ajay = {
 
 ---
 -->
-## 📈 Coding Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaykh053-lgtm&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FFFFFF&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake Animation](https://raw.githubusercontent.com/ajaykh053-lgtm/ajaykh053-lgtm/output/github-contribution-grid-snake.svg)
 
 *"First, solve the problem. Then, write the code." — John Johnson*
 
