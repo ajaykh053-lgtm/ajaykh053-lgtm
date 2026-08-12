@@ -8,7 +8,7 @@ on:
   # Allows manual triggering from the Actions tab
   workflow_dispatch:
   
-  # Run automatically on every push to the main branch
+  # Run automatically on every push to main
   push:
     branches:
       - main
@@ -21,17 +21,16 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Generate the snake animation SVG files
-      - name: Generate github-contribution-grid-snake.svg
+      # Generate dark mode snake animation
+      - name: Generate dark snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Push the generated SVG files to the 'output' branch
-      - name: Push github-contribution-grid-snake.svg to the output branch
+      # Push the generated dark SVG to the 'output' branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
