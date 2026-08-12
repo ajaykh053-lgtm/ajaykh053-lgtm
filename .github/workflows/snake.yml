@@ -15,7 +15,7 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_login: ${{ github.repository_owner }}
+          github_user_login: ajaykh053-lgtm
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
