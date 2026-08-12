@@ -115,7 +115,12 @@ const Ajay = {
 
 ---
 
+<div align="center"> 
+## 🐍 Contribution Snake
+
 <div align="center">
+  <img src="https://raw.githubusercontent.com/ajaykh053-lgtm/ajaykh053-lgtm/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
 
 *"First, solve the problem. Then, write the code." — John Johnson*
 
