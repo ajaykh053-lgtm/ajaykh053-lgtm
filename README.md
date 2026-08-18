@@ -42,11 +42,6 @@ const Ajay = {
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake Animation](https://raw.githubusercontent.com/ajaykh053-lgtm/ajaykh053-lgtm/output/github-contribution-grid-snake.svg)
-
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -81,42 +76,6 @@ const Ajay = {
 
 ---
 
-## 📈 Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaykh053-lgtm&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FFFFFF&hide_border=true" />
-
-</div>
-
----
-<!--
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ajaykh053-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykh053-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&langs_count=7" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaykh053-lgtm&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" />
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-[![Attendance System](https://github-readme-stats.vercel.app/api/pin/?username=ajaykh053-lgtm&repo=digital-attendance-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9)](https://github.com/ajaykh053-lgtm/digital-attendance-system)
-[![Line Following Robot](https://github-readme-stats.vercel.app/api/pin/?username=ajaykh053-lgtm&repo=line-following-robot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9)](https://github.com/ajaykh053-lgtm/line-following-robot)
-
-</div>
 
 ---
 -->
