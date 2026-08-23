@@ -31,12 +31,10 @@ const Ajay = {
 
 ## Contribution Snake
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ajaykh053-lgtm/ajaykh053-lgtm/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -64,11 +62,10 @@ const Ajay = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-kh-52b08032a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-kh-52b08032a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://myprotfolio-tawny-delta.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaykh053@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ajaykh/)
-
 
 _"First, solve the problem. Then, write the code." — John Johnson_
 </div>
